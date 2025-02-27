@@ -8,33 +8,33 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 
 #### Git
 
-- [ ] Création de compte + configuration Github
-- [ ] Installation et configuration de Git
-- [ ] Comprendre le versionning
-- [ ] Comprendre le fonctionnement de Git
-  - [ ] Comprendre le staging de Git
-  - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
-    - [ ] git init
-    - [ ] git add
-    - [ ] git status
-    - [ ] git commit
-    - [ ] git pull
-    - [ ] git push
-    - [ ] git clone
-    - [ ] git remote
+- [&#9989] Création de compte + configuration Github
+- [&#9989] Installation et configuration de Git
+- [&#9989] Comprendre le versionning
+- [&#9989] Comprendre le fonctionnement de Git
+  - [&#9989] Comprendre le staging de Git
+  - [&#9989] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
+    - [&#9989] git init
+    - [&#9989] git add
+    - [&#9989] git status
+    - [&#9989] git commit
+    - [&#9989] git pull
+    - [&#9989] git push
+    - [&#9989] git clone
+    - [&#9989] git remote
 - [ ] Faire le parcours Git-it pour les débutants (Nodeschool.io)
-- [ ] Faire ses premiers commits sur les daily objectives
-- [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
-- [ ] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
+- [&#9989] Faire ses premiers commits sur les daily objectives
+- [&#9989] Faire ses premiers pushs des daily-objectives sur son compte Github
+- [&#9989] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
 
 * [ ] Comprendre les termes "local", "origin" et "upstream"
-* [ ] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
-* [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
-* [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
-  - [ ] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
-  - [ ] https://www.conventionalcommits.org/fr/v1.0.0/
+* [&#9989] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
+* [&#9989] Faire ses premiers pushs des daily-objectives sur son compte Github
+* [&#9989] Découvrir les conventions de nommage de son versionning avec la convention Angular :
+  - [&#9989] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
+  - [&#9989] https://www.conventionalcommits.org/fr/v1.0.0/
   - [ ] Renommer son dernier commit en respectant cette convention
-* [ ] Comprendre le fonctionnement des branches dans Git :
+* [&#9989] Comprendre le fonctionnement des branches dans Git :
   - [ ] Lister, changer, créer, supprimer des branches
   - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
 * [ ] Comprendre le merge dans Git
@@ -44,10 +44,10 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 #### Github
 
 - [ ] Pimper son profile Github (belle du village)
-- [ ] Configurer un tunnel SSH entre son local et son Github
-- [ ] Découvrir l'interface de Github :
+- [&#9989] Configurer un tunnel SSH entre son local et son Github
+- [&#9989] Découvrir l'interface de Github :
   - [ ] Pull Requests
   - [ ] Branches
   - [ ] Issues
-  - [ ] Settings projet
-  - [ ] Settings profile
+  - [&#9989] Settings projet
+  - [&#9989] Settings profile
