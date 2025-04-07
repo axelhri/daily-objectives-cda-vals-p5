@@ -29,8 +29,8 @@
 
 ### Exercices pratiques
 
-- [ ] S'initier à la conception de MCD simples
+- [x] S'initier à la conception de MCD simples
   - [ ] Analyse d'un cas simple (bibliothèque)
   - [ ] Identification des entités et relations
-  - [ ] Dessin d'un premier MCD sur papier
+  - [x] Dessin d'un premier MCD sur papier
   - [ ] Discussion et amélioration du modèle
