@@ -28,13 +28,13 @@
 
 ### Brief Kéké Voyages : Conception MCD
 
-- [ ] Analyser le contexte et les besoins
-  - [ ] Relecture du brief Kéké Voyages
-  - [ ] Identification des entités principales (vols, réservations, passagers...)
-  - [ ] Listing exhaustif des informations à stocker
-  - [ ] Définition des règles de gestion
-- [ ] Concevoir le MCD complet pour l'agence de voyages
-  - [ ] Modélisation des entités avec leurs attributs
-  - [ ] Établissement des relations entre entités
-  - [ ] Spécification des cardinalités
-  - [ ] Vérification de la cohérence du modèle
+- [x] Analyser le contexte et les besoins
+  - [x] Relecture du brief Kéké Voyages
+  - [x] Identification des entités principales (vols, réservations, passagers...)
+  - [x] Listing exhaustif des informations à stocker
+  - [x] Définition des règles de gestion
+- [x] Concevoir le MCD complet pour l'agence de voyages
+  - [x] Modélisation des entités avec leurs attributs
+  - [x] Établissement des relations entre entités
+  - [x] Spécification des cardinalités
+  - [x] Vérification de la cohérence du modèle
