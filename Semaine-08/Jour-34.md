@@ -13,11 +13,11 @@
     - [x] L'architecture globale
 
 - [ ] Mise en place de la structure documentaire pour les compétences du titre
-  - [ ] Dossier "Conception" pour le bloc 1
-    - [ ] Maquettes et prototypes
-    - [ ] Spécifications fonctionnelles
-    - [ ] Modélisation UML (diagrammes de classes, séquences...)
-    - [ ] Modélisation de la base de données
+  - [x] Dossier "Conception" pour le bloc 1
+    - [x] Maquettes et prototypes
+    - [x] Spécifications fonctionnelles
+    - [x] Modélisation UML (diagrammes de classes, séquences...)
+    - [x] Modélisation de la base de données
 
 ### Introduction aux bases de données relationnelles
 
