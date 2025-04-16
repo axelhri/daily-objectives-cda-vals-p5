@@ -4,12 +4,14 @@
 
 ### Installation et Configuration de PostgreSQL
 
-- [ ] Préparation de l'environnement
-  - [ ] Téléchargement de PostgreSQL
-  - [ ] Installation du SGBD
-  - [ ] Vérification de l'installation
+- [x] Préparation de l'environnement
+
+  - [x] Téléchargement de PostgreSQL
+  - [x] Installation du SGBD
+  - [x] Vérification de l'installation
 
 - [ ] Configuration initiale
+
   - [ ] Paramétrage du service PostgreSQL
   - [ ] Configuration du port et des connexions
   - [ ] Gestion du fichier postgresql.conf
@@ -36,6 +38,7 @@
 ### Premiers pas pratiques
 
 - [ ] Création d'une première base de données
+
   - [ ] Utilisation de createdb
   - [ ] Configuration des paramètres de base
   - [ ] Gestion des encodages
