@@ -33,61 +33,66 @@
   - [x] DEFAULT
   - [x] CHECK (basique)
 
-- [ ] Index
+- [x] Index
 
-  - [ ] Création d'index simples
-  - [ ] Quand utiliser les index
-  - [ ] Impact sur les performances
+  - [x] Création d'index simples
+  - [x] Quand utiliser les index
+  - [x] Impact sur les performances
 
-- [ ] Exercices pratiques
-  - [ ] Création d'une base de données pour un cas concret
-  - [ ] Mise en place des tables et relations
-  - [ ] Ajout des contraintes nécessaires
-  - [ ] Modification de structure existante
+- [x] Exercices pratiques
+  - [x] Création d'une base de données pour un cas concret
+  - [x] Mise en place des tables et relations
+  - [x] Ajout des contraintes nécessaires
+  - [x] Modification de structure existante
 
 ### SQL - Data Manipulation Language (DML) avec PostgreSQL
 
-- [ ] Requêtes de sélection (SELECT)
-  - [ ] Structure de base
-    - [ ] SELECT, FROM, WHERE
-    - [ ] ORDER BY, LIMIT
-    - [ ] GROUP BY, HAVING
-  - [ ] Opérateurs de comparaison
-    - [ ] =, <>, >, <, >=, <=
-    - [ ] BETWEEN, IN, LIKE
-    - [ ] IS NULL, IS NOT NULL
-  - [ ] Fonctions d'agrégation
-    - [ ] COUNT, SUM, AVG
-    - [ ] MIN, MAX
+- [x] Requêtes de sélection (SELECT)
 
-- [ ] Jointures de tables
-  - [ ] INNER JOIN
-  - [ ] LEFT JOIN
-  - [ ] RIGHT JOIN
-  - [ ] Cas d'usage typiques
-  - [ ] Bonnes pratiques
+  - [x] Structure de base
+    - [x] SELECT, FROM, WHERE
+    - [x] ORDER BY, LIMIT
+    - [x] GROUP BY, HAVING
+  - [x] Opérateurs de comparaison
+    - [x] =, <>, >, <, >=, <=
+    - [x] BETWEEN, IN, LIKE
+    - [x] IS NULL, IS NOT NULL
+  - [x] Fonctions d'agrégation
+    - [x] COUNT, SUM, AVG
+    - [x] MIN, MAX
+
+- [x] Jointures de tables
+
+  - [x] INNER JOIN
+  - [x] LEFT JOIN
+  - [x] RIGHT JOIN
+  - [x] Cas d'usage typiques
+  - [x] Bonnes pratiques
 
 - [ ] Insertion de données
-  - [ ] INSERT INTO
-    - [ ] Insertion simple
-    - [ ] Insertion multiple
-    - [ ] INSERT INTO SELECT
-  - [ ] Gestion des erreurs courantes
 
-- [ ] Modification de données
-  - [ ] UPDATE
-    - [ ] Mise à jour simple
-    - [ ] Avec conditions WHERE
-    - [ ] Avec jointures
-  - [ ] Bonnes pratiques de sécurité
+  - [x] INSERT INTO
+    - [x] Insertion simple
+    - [x] Insertion multiple
+    - [x] INSERT INTO SELECT
+  - [x] Gestion des erreurs courantes
 
-- [ ] Suppression de données
-  - [ ] DELETE
-    - [ ] Avec conditions
-    - [ ] Bonnes pratiques
-  - [ ] TRUNCATE
-    - [ ] Différence avec DELETE
-    - [ ] Précautions à prendre
+- [x] Modification de données
+
+  - [x] UPDATE
+    - [x] Mise à jour simple
+    - [x] Avec conditions WHERE
+    - [x] Avec jointures
+  - [x] Bonnes pratiques de sécurité
+
+- [x] Suppression de données
+
+  - [x] DELETE
+    - [x] Avec conditions
+    - [x] Bonnes pratiques
+  - [x] TRUNCATE
+    - [x] Différence avec DELETE
+    - [x] Précautions à prendre
 
 - [ ] Exercices pratiques
   - [ ] Requêtes de sélection complexes
