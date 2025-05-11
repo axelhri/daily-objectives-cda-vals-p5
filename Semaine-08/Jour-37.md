@@ -69,7 +69,7 @@
   - [x] Cas d'usage typiques
   - [x] Bonnes pratiques
 
-- [ ] Insertion de données
+- [x] Insertion de données
 
   - [x] INSERT INTO
     - [x] Insertion simple
@@ -94,7 +94,7 @@
     - [x] Différence avec DELETE
     - [x] Précautions à prendre
 
-- [ ] Exercices pratiques
-  - [ ] Requêtes de sélection complexes
-  - [ ] Manipulation de données réelles
-  - [ ] Cas pratiques métier
+- [x] Exercices pratiques
+  - [x] Requêtes de sélection complexes
+  - [x] Manipulation de données réelles
+  - [x] Cas pratiques métier
